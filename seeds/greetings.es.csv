@@ -1,0 +1,101 @@
+nivel,nombre_nivel,saludo,idioma,activo
+1,Pícaro,¿Vienes o voy?,es,1
+1,Pícaro,Tengo planes… y tú sales en todos.,es,1
+1,Pícaro,Hoy no quiero dormir solo.,es,1
+1,Pícaro,Escríbeme y te cuento lo que no pongo aquí.,es,1
+1,Pícaro,¿Me invitas a tu casa o a la mía?,es,1
+1,Pícaro,Soy peligroso después de las 10 pm.,es,1
+1,Pícaro,Busco a alguien que me quite el aburrimiento.,es,1
+1,Pícaro,"Si me escribes, no respondo por mí.",es,1
+1,Pícaro,Lo bueno se platica en privado.,es,1
+1,Pícaro,¿Nos portamos mal un rato?,es,1
+1,Pícaro,"Tengo vino, me falta compañía.",es,1
+1,Pícaro,Mi cama tiene espacio para dos.,es,1
+1,Pícaro,Hoy ando con ganas de travesuras.,es,1
+1,Pícaro,¿Qué tan cerca estás?,es,1
+1,Pícaro,Pregúntame lo que quieras… lo que sea.,es,1
+1,Pícaro,Me sobra energía y me falta con quién gastarla.,es,1
+1,Pícaro,Te reto a escribirme primero.,es,1
+1,Pícaro,Soy de los que no se quedan con las ganas.,es,1
+1,Pícaro,Prometo que no muerdo… mucho.,es,1
+1,Pícaro,¿Y si dejamos de vernos solo por la app?,es,1
+2,Coqueto,¿Me regalas tu mejor sonrisa?,es,1
+2,Coqueto,Me encantan los ojos que saben mirar.,es,1
+2,Coqueto,"Escríbeme, a ver si me sonrojas.",es,1
+2,Coqueto,Busco a alguien que me ponga nervioso.,es,1
+2,Coqueto,¿Te gusta coquetear tanto como a mí?,es,1
+2,Coqueto,"Me late tu estilo, ¿y a ti el mío?",es,1
+2,Coqueto,Dime algo bonito y te contesto rápido.,es,1
+2,Coqueto,Me encantan los besos de buenos días.,es,1
+2,Coqueto,¿Nos tomamos algo y vemos qué pasa?,es,1
+2,Coqueto,Tengo debilidad por las miradas profundas.,es,1
+2,Coqueto,"Si te gusta lo que ves, salúdame.",es,1
+2,Coqueto,Me dicen que abrazo rico.,es,1
+2,Coqueto,¿Te atreves a invitarme un café?,es,1
+2,Coqueto,"Me gustan las sorpresas, ¿eres una?",es,1
+2,Coqueto,Ojalá seas mi siguiente distracción favorita.,es,1
+2,Coqueto,"Si sonríes así en persona, me rindo.",es,1
+2,Coqueto,"Busco química, de la buena.",es,1
+2,Coqueto,Me encantan los que saben hacerme reír.,es,1
+2,Coqueto,Una cita y te convenzo.,es,1
+2,Coqueto,¿Hacemos match?,es,1
+3,Juguetón,¿Te animas?,es,1
+3,Juguetón,¿Un plan este fin?,es,1
+3,Juguetón,Conoce mi lado más divertido.,es,1
+3,Juguetón,"¿Cena, peli y buena plática?",es,1
+3,Juguetón,Te invito unos tacos si me escribes.,es,1
+3,Juguetón,Busco cómplice para mis planes locos.,es,1
+3,Juguetón,¿Bailamos este fin?,es,1
+3,Juguetón,"Soy mejor en persona, compruébalo.",es,1
+3,Juguetón,¿Mezcal o cerveza? Tú eliges.,es,1
+3,Juguetón,"Si me haces reír, ya ganaste.",es,1
+3,Juguetón,¿Aventura o maratón de series?,es,1
+3,Juguetón,Ando buscando a alguien con buena vibra.,es,1
+3,Juguetón,Te apuesto a que no adivinas mi signo.,es,1
+3,Juguetón,¿Karaoke? Prometo no cantar tan mal.,es,1
+3,Juguetón,Escríbeme algo que me saque una sonrisa.,es,1
+3,Juguetón,¿Quién se anima a un plan improvisado?,es,1
+3,Juguetón,Tengo buenos chistes malos.,es,1
+3,Juguetón,Te cambio una plática por un café.,es,1
+3,Juguetón,¿Me cuentas tu mejor anécdota?,es,1
+3,Juguetón,Busco al que se ría de mis memes.,es,1
+4,Casual,¡Conversemos!,es,1
+4,Casual,¿Qué tal tu día?,es,1
+4,Casual,"Hola, me gustaría conocerte.",es,1
+4,Casual,¿Qué te trae por aquí?,es,1
+4,Casual,Salúdame sin pena.,es,1
+4,Casual,Siempre listo para una buena plática.,es,1
+4,Casual,¿Café y conversación?,es,1
+4,Casual,"Nuevo por aquí, ¿me recomiendas algo?",es,1
+4,Casual,Me gusta conocer gente con buena energía.,es,1
+4,Casual,¿Qué haces en tu tiempo libre?,es,1
+4,Casual,Cuéntame algo de ti.,es,1
+4,Casual,Platicar no cuesta nada.,es,1
+4,Casual,Busco conocer gente nueva.,es,1
+4,Casual,¿Qué música escuchas?,es,1
+4,Casual,Recomiéndame una serie.,es,1
+4,Casual,Hablemos de viajes.,es,1
+4,Casual,Me encanta conocer historias nuevas.,es,1
+4,Casual,¿Un paseo por el parque?,es,1
+4,Casual,Abierto a conocer a alguien interesante.,es,1
+4,Casual,"Escríbeme, contesto rápido.",es,1
+5,Amigable,Busco amigos para salir.,es,1
+5,Amigable,Hagamos plan con amigos.,es,1
+5,Amigable,¿Te gusta el gym? Busco compañero de rutina.,es,1
+5,Amigable,"Amistad primero, siempre.",es,1
+5,Amigable,Busco amigos para ir al cine.,es,1
+5,Amigable,¿Jugamos algo en línea?,es,1
+5,Amigable,"Nuevo en la ciudad, busco amigos.",es,1
+5,Amigable,"Busco compañero de viajes, ¿te apuntas?",es,1
+5,Amigable,Busco con quién ir a conciertos.,es,1
+5,Amigable,¿Salimos a correr un día?,es,1
+5,Amigable,Hagamos amistad y luego vemos.,es,1
+5,Amigable,Siempre es bueno tener un amigo más.,es,1
+5,Amigable,Busco gente buena onda para platicar.,es,1
+5,Amigable,¿Un club de lectura de dos?,es,1
+5,Amigable,Busco compa para probar restaurantes.,es,1
+5,Amigable,Me gusta conocer gente sin presiones.,es,1
+5,Amigable,Buena plática y buena amistad.,es,1
+5,Amigable,¿Vamos a un museo?,es,1
+5,Amigable,Busco amigos para el antro.,es,1
+5,Amigable,"Aquí para hacer amigos, sin prisas.",es,1

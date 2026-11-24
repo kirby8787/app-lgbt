@@ -1,0 +1,17 @@
+# Secretos
+.env
+.env.*
+!.env.example
+# Node
+node_modules/
+dist/
+# Flutter
+mobile/.dart_tool/
+mobile/build/
+mobile/.flutter-plugins*
+mobile/ios/Pods/
+*.iml
+.idea/
+.DS_Store
+# Fotos subidas en desarrollo
+api/uploads/
